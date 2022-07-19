@@ -1,0 +1,11 @@
+- adobe sma
+- Dropbox
+- Office
+- Winrar
+- Chrome
+- Adobe premium
+- TeamViewer
+- Zoom
+- SmartPSS
+- PC-NVR
+- SP 330_3710
