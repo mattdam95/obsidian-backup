@@ -1,0 +1,3 @@
+```dataviewjs
+	dv.pages("#thing") 
+```

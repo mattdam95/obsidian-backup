@@ -5,5 +5,6 @@
   "obsidian-kanban",
   "obsidian-minimal-settings",
   "obsidian-linter",
-  "obsidian-dictionary-plugin"
+  "obsidian-dictionary-plugin",
+  "dataview"
 ]
