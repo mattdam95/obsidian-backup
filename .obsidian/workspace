@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8b835f2cb6e88abe",
+        "id": "e60fdb25ef5df29a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PCs/Programs.md",
+            "file": "♾️/Kolektor/Circuito.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "importando",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCs/Programs.md",
+                "file": "♾️/Kolektor/Circuito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,10 +100,18 @@
             }
           },
           {
-            "id": "8f67b38236635033",
+            "id": "96e0b57e9b2e83b2",
             "type": "leaf",
             "state": {
-              "type": "FANTASY_CALENDAR",
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5842165c9127a734",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
               "state": {}
             }
           }
@@ -112,19 +120,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "8b835f2cb6e88abe",
+  "active": "e60fdb25ef5df29a",
   "lastOpenFiles": [
-    "Kolektor/Publicación.md",
-    "Kolektor/Circuito.md",
-    "Kolektor/Crear stories y documentación.md",
-    "Day-notes/2022-07-01.md",
-    "Day-notes/2022-07-02.md",
-    "PCs/Programs.md",
-    "Kolektor/Img/Pasted image 20220627160321.png",
-    "Kolektor/Img/Pasted image 20220628120233.png",
-    "Kolektor/Img/Pasted image 20220628120227.png",
-    "Kolektor/Img/Pasted image 20220628113905.png"
+    "Pasted image 20220719142045.png",
+    "Untitled 1.md",
+    "Untitled.md",
+    "♾️/Kolektor/Circuito.md",
+    "Day Planners/Day Planner-20220719.md",
+    "Day Planners/Untitled Kanban.md",
+    "♾️/Kolektor/Crear stories y documentación.md",
+    "♾️/Kolektor/Publicación.md",
+    "♾️/Kolektor/Img/Pasted image 20220627160321.png",
+    "🗓️Daily_Notes/2022-07-01.md"
   ]
 }

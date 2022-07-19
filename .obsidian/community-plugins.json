@@ -1,7 +1,9 @@
 [
   "calendar",
   "obsidian-git",
-  "fantasy-calendar",
-  "dataview",
-  "cm-editor-syntax-highlight-obsidian"
+  "table-editor-obsidian",
+  "obsidian-kanban",
+  "obsidian-minimal-settings",
+  "obsidian-linter",
+  "obsidian-dictionary-plugin"
 ]

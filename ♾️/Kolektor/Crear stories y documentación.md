@@ -1,6 +1,6 @@
 # Stories y documentación
 
-En la libreria de componentes utilizamos una herramienta llamada [storybook](https://storybook.js.org) que nos permite visualizar los componentes desarrollados de manera aislada. Esto facilita su documentación e implementación, ya que permite hacer pruebas si necesidad de implementarlo en un proyecto con todo lo que implica.
+En la libreria de componentes utilizamos una herramienta llamada [storybook](https://storybook.js.org) que nos permite visualizar los componentes desarrollados de manera aislada. Esto facilita su documentación e implementación, ya que permite hacer pruebas si necesidad de implementarlo en un proyecto con todo lo que implica. #kui
 
 Para crear una storie para un componente:
 

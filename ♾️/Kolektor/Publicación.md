@@ -23,5 +23,3 @@
 	
 	_Nota: recordar estar en la rama develop al correr el script_ y en la raiz del proyecto, ya que ahi se encuentra el script.
 	![[Pasted image 20220627160321.png]]
-
-   
