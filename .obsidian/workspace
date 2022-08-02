@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "♾️/Kolektor/Kepler/Tecnologias y librerias.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "♾️/Kolektor/Kepler/Tecnologias y librerias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +122,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b1c3f8422fc821b6",
+  "active": "e60fdb25ef5df29a",
   "lastOpenFiles": [
-    "♾️/Kolektor/Circuito.md",
+    "♾️/Kolektor/Kepler/Folder structure.md",
+    "♾️/Kolektor/Kepler/Tecnologias y librerias.md",
     "Untitled.md",
+    "♾️/Kolektor/Wikis/Circuito.md",
     "Pasted image 20220719142045.png",
     "Untitled 1.md",
     "Day Planners/Day Planner-20220719.md",
     "Day Planners/Untitled Kanban.md",
-    "♾️/Kolektor/Crear stories y documentación.md",
-    "♾️/Kolektor/Publicación.md",
-    "♾️/Kolektor/Img/Pasted image 20220627160321.png",
-    "🗓️Daily_Notes/2022-07-01.md"
+    "♾️/Kolektor/Wikis/Crear stories y documentación.md",
+    "♾️/Kolektor/Wikis/Publicación.md"
   ]
 }
