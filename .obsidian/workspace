@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "♾️/Proyecto PC/Medidas.md",
+            "file": "♾️/Kolektor/Kepler/Backend.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️/Proyecto PC/Medidas.md",
+                "file": "♾️/Kolektor/Kepler/Backend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
   },
   "active": "e60fdb25ef5df29a",
   "lastOpenFiles": [
+    "♾️/Proyecto PC/Medidas.md",
     "♾️/Kolektor/Kepler/Tecnologias y librerias.md",
     "♾️/Kolektor/Kepler/Folder structure.md",
     "Untitled.md",
@@ -132,7 +133,6 @@
     "Untitled 1.md",
     "Day Planners/Day Planner-20220719.md",
     "Day Planners/Untitled Kanban.md",
-    "♾️/Kolektor/Wikis/Crear stories y documentación.md",
-    "♾️/Kolektor/Wikis/Publicación.md"
+    "♾️/Kolektor/Wikis/Crear stories y documentación.md"
   ]
 }
