@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "♾️/Kolektor/Kepler/Backend.md",
+            "file": "♾️/Kolektor/Kepler/Folder structure.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️/Kolektor/Kepler/Backend.md",
+                "file": "♾️/Kolektor/Kepler/Folder structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "e60fdb25ef5df29a",
   "lastOpenFiles": [
-    "♾️/Proyecto PC/Medidas.md",
     "♾️/Kolektor/Kepler/Tecnologias y librerias.md",
+    "♾️/Kolektor/Kepler/Backend.md",
+    "♾️/Proyecto PC/Medidas.md",
     "♾️/Kolektor/Kepler/Folder structure.md",
     "Untitled.md",
     "♾️/Kolektor/Wikis/Circuito.md",
     "Pasted image 20220719142045.png",
     "Untitled 1.md",
     "Day Planners/Day Planner-20220719.md",
-    "Day Planners/Untitled Kanban.md",
-    "♾️/Kolektor/Wikis/Crear stories y documentación.md"
+    "Day Planners/Untitled Kanban.md"
   ]
 }
