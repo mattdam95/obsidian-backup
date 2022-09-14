@@ -1,0 +1,3 @@
+- Angular pipe async.
+- TDD
+- SOLID y clean code

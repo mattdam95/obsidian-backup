@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "♾️/Proyecto PC/Medidas.md",
+            "file": "♾️/Kolektor/ToLearn.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️/Proyecto PC/Medidas.md",
+                "file": "♾️/Kolektor/ToLearn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,8 +124,8 @@
   },
   "active": "e60fdb25ef5df29a",
   "lastOpenFiles": [
-    "♾️/Proyecto PC/Cosas utiles PC.md",
     "♾️/Proyecto PC/Medidas.md",
+    "♾️/Proyecto PC/Cosas utiles PC.md",
     "♾️/Kolektor/Kepler/Folder structure.md",
     "♾️/Kolektor/Kepler/Tecnologias y librerias.md",
     "♾️/Kolektor/Kepler/Backend.md",
