@@ -1,3 +1,5 @@
 - Angular pipe async.
 - TDD
-- SOLID y clean code
+- SOLID y clean code.
+- VUE
+- Test buenas practicas.
