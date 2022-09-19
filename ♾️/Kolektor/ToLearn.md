@@ -4,3 +4,5 @@
 - VUE
 - Test buenas practicas.
 - 1 expect por test?
+- Gitflow
+- Markdown

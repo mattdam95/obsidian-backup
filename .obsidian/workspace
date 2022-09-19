@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "♾️/Kolektor/ToLearn.md",
+            "file": "♾️/Kolektor/Wikis/Circuito.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️/Kolektor/ToLearn.md",
+                "file": "♾️/Kolektor/Wikis/Circuito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +124,15 @@
   },
   "active": "e60fdb25ef5df29a",
   "lastOpenFiles": [
+    "♾️/Kolektor/Wikis/Publicación.md",
+    "♾️/Kolektor/Wikis/Crear stories y documentación.md",
+    "♾️/Kolektor/Wikis/Circuito.md",
+    "♾️/Kolektor/ToLearn.md",
     "♾️/Proyecto PC/Cosas utiles PC.md",
     "♾️/Proyecto PC/Medidas.md",
     "♾️/Proyecto PC/Untitled.md",
     "♾️/PCs/Untitled.md",
     "♾️/PCs/Programs.md",
-    "Untitled.md",
-    "Pasted image 20220819143314.png",
-    "♾️/Kolektor/Kepler/Backend.md",
-    "♾️/Kolektor/Kepler/Folder structure.md",
-    "♾️/Kolektor/ToLearn.md"
+    "Untitled.md"
   ]
 }
