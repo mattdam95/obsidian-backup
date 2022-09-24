@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "♾️/Kolektor/Wikis/Circuito.md",
+            "file": "♾️/Kolektor/Kepler/Tecnologias y librerias.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️/Kolektor/Wikis/Circuito.md",
+                "file": "♾️/Kolektor/Kepler/Tecnologias y librerias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,8 +125,8 @@
   },
   "active": "63aed10d5a6cd678",
   "lastOpenFiles": [
-    "♾️/Kolektor/Wikis/Crear stories y documentación.md",
     "♾️/Kolektor/Wikis/Circuito.md",
+    "♾️/Kolektor/Wikis/Crear stories y documentación.md",
     "♾️/Kolektor/Wikis/Publicación.md",
     "♾️/Kolektor/ToLearn.md",
     "♾️/Kolektor/Untitled.md",
