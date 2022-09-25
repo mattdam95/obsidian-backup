@@ -46,7 +46,7 @@ Una vez creada la rama se debe realizar los cambios dentro de la misma. Esto inc
 - Desarrollo o modificacion del componente.
 - Test unitarios.
 - Desarrollo o modificacion de la documentación(_archivo md con markdown_).
-- Creación de las stories para storybook. Ver en [[Kolektor/Crear stories y documentación #kui]].
+- Creación de las stories para storybook. Ver en [[Crear stories y documentación]] #kui.
 
 Todos los componentes modificados y o agregados deben contar con los test unitarios para poder pasar el coverage. (_Esto es necesario ya que antes de cada commit se ejecuta husky que pasa los tests y linter en todo el proyecto_).
 

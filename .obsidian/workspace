@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "63aed10d5a6cd678",
+        "id": "f273a13db995a9a6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "♾️/Kolektor/Kepler/TODO.md",
+            "file": "♾️/Kolektor/Wikis/Crear stories y documentación.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "importando",
+                "query": "tag:#kepler",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214
+    "width": 267.5
   },
   "right": {
     "id": "e4cd3249d6af1379",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️/Kolektor/Kepler/TODO.md",
+                "file": "♾️/Kolektor/Wikis/Crear stories y documentación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -116,24 +116,54 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "63aed10d5a6cd678",
+  "floating": {
+    "id": "9496a0c386e10f11",
+    "type": "floating",
+    "children": [
+      {
+        "id": "001bbee15d2ee454",
+        "type": "window",
+        "children": [
+          {
+            "id": "6051212adeb920f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "♾️/Kolektor/Helpful links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical",
+        "x": 643,
+        "y": 112,
+        "width": 732,
+        "height": 997,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "b1c3f8422fc821b6",
   "lastOpenFiles": [
-    "♾️/Kolektor/Kepler/Tecnologias y librerias.md",
-    "♾️/Kolektor/Kepler/TODO.md",
-    "♾️/Kolektor/Kepler/Folder structure.md",
-    "♾️/Kolektor/Kepler/Backend.md",
-    "♾️/Kolektor/Wikis/Circuito.md",
-    "♾️/Kolektor/Wikis/Crear stories y documentación.md",
     "♾️/Kolektor/Wikis/Publicación.md",
+    "♾️/Kolektor/Wikis/Crear stories y documentación.md",
+    "♾️/Kolektor/Wikis/Circuito.md",
     "♾️/Kolektor/ToLearn.md",
-    "♾️/Kolektor/Untitled.md",
-    "♾️/Proyecto PC/Untitled.md"
+    "♾️/Kolektor/Helpful links.md",
+    "Kolektor/Crear stories y documentación.md",
+    "Kolektor/Crear stories y documentación 2.md",
+    "Kolektor/Crear stories y documentación 1.md",
+    "Pasted image 20220919230815.png",
+    "Pasted image 20220918131402.png"
   ]
 }
