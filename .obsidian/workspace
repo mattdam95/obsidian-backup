@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "♾️/Kolektor/Kepler/Tecnologias y librerias.md",
+            "file": "♾️/Kolektor/Kepler/TODO.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️/Kolektor/Kepler/Tecnologias y librerias.md",
+                "file": "♾️/Kolektor/Kepler/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +125,15 @@
   },
   "active": "63aed10d5a6cd678",
   "lastOpenFiles": [
+    "♾️/Kolektor/Kepler/Tecnologias y librerias.md",
+    "♾️/Kolektor/Kepler/TODO.md",
+    "♾️/Kolektor/Kepler/Folder structure.md",
+    "♾️/Kolektor/Kepler/Backend.md",
     "♾️/Kolektor/Wikis/Circuito.md",
     "♾️/Kolektor/Wikis/Crear stories y documentación.md",
     "♾️/Kolektor/Wikis/Publicación.md",
     "♾️/Kolektor/ToLearn.md",
     "♾️/Kolektor/Untitled.md",
-    "♾️/Proyecto PC/Untitled.md",
-    "♾️/Proyecto PC/Medidas.md",
-    "[.md",
-    "♾️/Proyecto PC/Cosas utiles PC.md",
-    "♾️/PCs/Untitled.md"
+    "♾️/Proyecto PC/Untitled.md"
   ]
 }
