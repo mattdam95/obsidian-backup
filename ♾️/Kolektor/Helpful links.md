@@ -5,4 +5,4 @@
 - [GitLab K](https://gitlab.rentascordoba.gob.ar/)
 - [GitLab R](https://gitlab.rentascordoba.gob.ar/)
 - [Mi sistema de gestión](https://misistemadegestion.serv-it.com.ar/#/login)
-- 
+- [Openshift](https://console-openshift-console.apps.cicd-rentas.gobiernocba.gov.ar/ "https://console-openshift-console.apps.cicd-rentas.gobiernocba.gov.ar/")
