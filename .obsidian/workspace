@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "♾️/Kolektor/Wikis/Circuito.md",
+            "file": "♾️/Kolektor/App-agus.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️/Kolektor/Wikis/Circuito.md",
+                "file": "♾️/Kolektor/App-agus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,15 +137,15 @@
   },
   "active": "a3ed462a2d14d671",
   "lastOpenFiles": [
+    "♾️/Kolektor/ToLearn.md",
+    "♾️/Kolektor/App-agus.md",
+    "♾️/Kolektor/Wikis/Circuito.md",
     "♾️/Kolektor/Kepler/TODO.md",
     "♾️/Kolektor/Kepler/Tecnologias y librerias.md",
     "♾️/Kolektor/Helpful links.md",
-    "♾️/Kolektor/ToLearn.md",
     "♾️/Kolektor/Wikis/Crear stories y documentación.md",
     "2022-09-22.md",
     "♾️/Kolektor/Wikis/Publicación.md",
-    "♾️/Kolektor/Wikis/Circuito.md",
-    "Kolektor/Crear stories y documentación.md",
-    "Kolektor/Crear stories y documentación 2.md"
+    "Kolektor/Crear stories y documentación.md"
   ]
 }
