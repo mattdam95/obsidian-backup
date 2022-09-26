@@ -77,5 +77,8 @@ Avisar por el canal de la comunidad la publicación de la nueva de la versión d
 - Agregar tags de Google Tag Manager.
 - Investigacion de herramientas que faciliten el trabajo a los desarrolladores.
 
+
+//TODO: Agregar validacion con UX antes de la publicacion
+
 `
 
