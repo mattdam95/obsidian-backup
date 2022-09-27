@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "♾️/Kolektor/ToLearn.md",
+            "file": "♾️/JavaScript/Ternarios y operadores.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️/Kolektor/ToLearn.md",
+                "file": "♾️/JavaScript/Ternarios y operadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,10 +123,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f79969476670f7d2",
+  "active": "e4a4747ef08ceaf6",
   "lastOpenFiles": [
-    "♾️/Kolektor/Helpful links.md",
     "♾️/Kolektor/ToLearn.md",
+    "♾️/Kolektor/Helpful links.md",
     "♾️/Kolektor/App-agus.md",
     "♾️/Kolektor/Kepler/TODO.md",
     "♾️/Kolektor/Wikis/Circuito.md",
