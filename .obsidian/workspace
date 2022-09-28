@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f79969476670f7d2",
+        "id": "82a0700c2f7cc126",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "♾️/JavaScript/Ternarios y operadores.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,11 +36,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "f",
                 "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️/JavaScript/Ternarios y operadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e4a4747ef08ceaf6",
+  "active": "82a0700c2f7cc126",
   "lastOpenFiles": [
-    "♾️/Kolektor/ToLearn.md",
     "♾️/Kolektor/Helpful links.md",
+    "♾️/Proyecto PC/Cosas utiles PC.md",
+    "♾️/Proyecto PC/Desktop 3d.md",
+    "♾️/Kolektor/Wikis/Circuito.md",
+    "♾️/JavaScript/Ternarios y operadores.md",
+    "♾️/Kolektor/ToLearn.md",
     "♾️/Kolektor/App-agus.md",
     "♾️/Kolektor/Kepler/TODO.md",
-    "♾️/Kolektor/Wikis/Circuito.md",
     "♾️/Kolektor/Kepler/Tecnologias y librerias.md",
-    "♾️/Kolektor/Wikis/Crear stories y documentación.md",
-    "2022-09-22.md",
-    "♾️/Kolektor/Wikis/Publicación.md",
-    "Kolektor/Crear stories y documentación.md"
+    "♾️/Kolektor/Wikis/Crear stories y documentación.md"
   ]
 }
