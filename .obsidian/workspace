@@ -7,8 +7,12 @@
         "id": "82a0700c2f7cc126",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "♾️/Kolektor/Helpful links.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "♾️/Kolektor/Helpful links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +125,15 @@
   },
   "active": "82a0700c2f7cc126",
   "lastOpenFiles": [
-    "♾️/Kolektor/Helpful links.md",
-    "♾️/Proyecto PC/Cosas utiles PC.md",
     "♾️/Proyecto PC/Desktop 3d.md",
+    "♾️/Proyecto PC/Cosas utiles PC.md",
+    "♾️/Proyecto PC/Medidas.md",
+    "♾️/Kolektor/Helpful links.md",
     "♾️/Kolektor/Wikis/Circuito.md",
     "♾️/JavaScript/Ternarios y operadores.md",
     "♾️/Kolektor/ToLearn.md",
     "♾️/Kolektor/App-agus.md",
     "♾️/Kolektor/Kepler/TODO.md",
-    "♾️/Kolektor/Kepler/Tecnologias y librerias.md",
-    "♾️/Kolektor/Wikis/Crear stories y documentación.md"
+    "♾️/Kolektor/Kepler/Tecnologias y librerias.md"
   ]
 }

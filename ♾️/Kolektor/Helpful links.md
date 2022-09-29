@@ -6,3 +6,5 @@
 - [GitLab R](https://gitlab.rentascordoba.gob.ar/)
 - [Mi sistema de gestión](https://misistemadegestion.serv-it.com.ar/#/login)
 - [Openshift](https://console-openshift-console.apps.cicd-rentas.gobiernocba.gov.ar/ "https://console-openshift-console.apps.cicd-rentas.gobiernocba.gov.ar/")
+- [Solved: Re: Can't connect to IPsec VPN in Windows 11 - Fortinet Community](https://community.fortinet.com/t5/Fortinet-Forum/Can-t-connect-to-IPsec-VPN-in-Windows-11/m-p/202225)
+- 
