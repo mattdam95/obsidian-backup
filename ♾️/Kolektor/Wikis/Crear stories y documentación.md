@@ -6,7 +6,7 @@ Para crear una storie para un componente:
 
 1. Crear un archivo con la nomenclatura establecida, esta es: 
    - nombre del componente + stories + extensión. Ej: `alert.component.ts`
-2. Crear la estructura base dentro del archivo:
+2. Crear la estructura base dentro del archivo :
 ```js
 import { moduleMetadata, storiesOf } from '@storybook/angular';   
 import { KuiComponent } from './kui.component';  
