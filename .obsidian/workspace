@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "♾️/Kolektor/Wikis/Crear stories y documentación.md",
+            "file": "♾️/Kolektor/Helpful links.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️/Kolektor/Wikis/Crear stories y documentación.md",
+                "file": "♾️/Kolektor/Helpful links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,15 +125,15 @@
   },
   "active": "82a0700c2f7cc126",
   "lastOpenFiles": [
+    "♾️/Kolektor/Wikis/Crear stories y documentación.md",
+    "♾️/JavaScript/Ternarios y operadores.md",
     "♾️/Kolektor/Wikis/Circuito.md",
     "♾️/Kolektor/Helpful links.md",
     "♾️/Proyecto PC/Desktop 3d.md",
     "♾️/Proyecto PC/Cosas utiles PC.md",
     "♾️/Proyecto PC/Medidas.md",
-    "♾️/JavaScript/Ternarios y operadores.md",
     "♾️/Kolektor/ToLearn.md",
     "♾️/Kolektor/App-agus.md",
-    "♾️/Kolektor/Kepler/TODO.md",
-    "♾️/Kolektor/Kepler/Tecnologias y librerias.md"
+    "♾️/Kolektor/Kepler/TODO.md"
   ]
 }

@@ -1,4 +1,4 @@
-# Stories y documentación
+## Stories y documentación
 
 En la libreria de componentes utilizamos una herramienta llamada [storybook](https://storybook.js.org) que nos permite visualizar los componentes desarrollados de manera aislada. Esto facilita su documentación e implementación, ya que permite hacer pruebas si necesidad de implementarlo en un proyecto con todo lo que implica. #kui
 
@@ -6,7 +6,7 @@ Para crear una storie para un componente:
 
 1. Crear un archivo con la nomenclatura establecida, esta es: 
    - nombre del componente + stories + extensión. Ej: `alert.component.ts`
-2. Crear la estructura base dentro del archivo :
+3. Crear la estructura base dentro del archivo :
 ```js
 import { moduleMetadata, storiesOf } from '@storybook/angular';   
 import { KuiComponent } from './kui.component';  
@@ -40,7 +40,7 @@ stories.add(
 );
 ```
 
-3. Armar las stories importando todo lo necesario para que funcione el componente. Cada una de los stories debe abarcar los diferentes casuísticas del componente.
+3. Armar las stories importando todo lo necesario para que funcione el componente. Cada una de los stories debe abarcar los diferentes casuísticas del componente. 
 
 _Nota: Usar como ejemplo las stories ya desarrolladas en la kui, ya que no usamos la ultima versión de storybook y parte de la documetacion correspondiente a nuestra version ya no se encuentra disponible._
 
