@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "♾️/Kolektor/Helpful links.md",
+            "file": "♾️/Kolektor/Kepler/TODO.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️/Kolektor/Helpful links.md",
+                "file": "♾️/Kolektor/Kepler/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,25 +115,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "82a0700c2f7cc126",
   "lastOpenFiles": [
-    "♾️/Kolektor/Wikis/Crear stories y documentación.md",
-    "♾️/JavaScript/Ternarios y operadores.md",
+    "♾️/Kolektor/Kepler/Folder structure.md",
+    "♾️/Kolektor/Kepler/Backend.md",
+    "♾️/Kolektor/Wikis/Img/Pasted image 20220627160321.png",
     "♾️/Kolektor/Wikis/Circuito.md",
     "♾️/Kolektor/Helpful links.md",
+    "♾️/Kolektor/Wikis/Crear stories y documentación.md",
+    "♾️/JavaScript/Ternarios y operadores.md",
     "♾️/Proyecto PC/Desktop 3d.md",
     "♾️/Proyecto PC/Cosas utiles PC.md",
-    "♾️/Proyecto PC/Medidas.md",
-    "♾️/Kolektor/ToLearn.md",
-    "♾️/Kolektor/App-agus.md",
-    "♾️/Kolektor/Kepler/TODO.md"
+    "♾️/Proyecto PC/Medidas.md"
   ]
 }
