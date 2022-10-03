@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "♾️/Kolektor/Kepler/TODO.md",
+            "file": "Personal stuffs/Buy list.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️/Kolektor/Kepler/TODO.md",
+                "file": "Personal stuffs/Buy list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,10 +119,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "82a0700c2f7cc126",
   "lastOpenFiles": [
+    "♾️/Kolektor/Kepler/TODO.md",
     "♾️/Kolektor/Kepler/Folder structure.md",
     "♾️/Kolektor/Kepler/Backend.md",
     "♾️/Kolektor/Wikis/Img/Pasted image 20220627160321.png",
@@ -131,7 +133,6 @@
     "♾️/Kolektor/Wikis/Crear stories y documentación.md",
     "♾️/JavaScript/Ternarios y operadores.md",
     "♾️/Proyecto PC/Desktop 3d.md",
-    "♾️/Proyecto PC/Cosas utiles PC.md",
-    "♾️/Proyecto PC/Medidas.md"
+    "♾️/Proyecto PC/Cosas utiles PC.md"
   ]
 }
