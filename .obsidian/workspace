@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "♾️ Infinity/JavaScript/Ternarios y operadores.md",
+            "file": "🍉 Personal stuffs/Buy list.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "♾️ Infinity/JavaScript/Ternarios y operadores.md",
+                "file": "🍉 Personal stuffs/Buy list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,8 +122,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e4a4747ef08ceaf6",
+  "active": "82a0700c2f7cc126",
   "lastOpenFiles": [
+    "♾️ Infinity/JavaScript/Ternarios y operadores.md",
     "🍉 Personal stuffs/Objectives/📅 Octubre.md",
     "🍉 Personal stuffs/Objectives/💫 2022.md",
     "🍉 Personal stuffs/Buy list.md",
@@ -132,7 +133,6 @@
     "Images/Pasted image 20220918131355.png",
     "Untitled.md",
     "♾️ Infinity/Kolektor/Kepler/TODO.md",
-    "♾️ Infinity/Kolektor/Kepler/Folder structure.md",
-    "♾️ Infinity/Kolektor/Kepler/Backend.md"
+    "♾️ Infinity/Kolektor/Kepler/Folder structure.md"
   ]
 }
