@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🍉 Personal stuffs/Buy list.md",
+            "file": "🍉 Personal stuffs/Cyberpunk Mods.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍉 Personal stuffs/Buy list.md",
+                "file": "🍉 Personal stuffs/Cyberpunk Mods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,14 +120,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "82a0700c2f7cc126",
   "lastOpenFiles": [
+    "🍉 Personal stuffs/Buy list.md",
     "♾️ Infinity/JavaScript/Ternarios y operadores.md",
     "🍉 Personal stuffs/Objectives/📅 Octubre.md",
     "🍉 Personal stuffs/Objectives/💫 2022.md",
-    "🍉 Personal stuffs/Buy list.md",
     "🍉 Personal stuffs/Objectives/Notes for TODO/Nerdearla.md",
     "Images/Pasted image 20220918131402.png",
     "Images/Pasted image 20220918131355.png",
