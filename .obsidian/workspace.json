@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "a504aa00a96063b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f622fda91e023c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82a0700c2f7cc126",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗓️ Calendar notes/⭕ Today.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "753ce3008cdd6227",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ba9eb01d57c056d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6554561b6ec313df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4a4747ef08ceaf6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66f48b4a771376e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#kui",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5
+  },
+  "right": {
+    "id": "e4cd3249d6af1379",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ccfadd317349a81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "000e59762fc83472",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3c9c21b3b2cf5fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "b1c3f8422fc821b6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "96e0b57e9b2e83b2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5842165c9127a734",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "e4a4747ef08ceaf6",
+  "lastOpenFiles": [
+    "🗓️ Calendar notes/⭕ Today.md",
+    "🍉 Personal stuffs/Cyberpunk Mods.md",
+    "♾️ Infinity/Proyecto PC/Desktop 3d.md",
+    "♾️ Infinity/Proyecto PC/Cosas utiles PC.md",
+    "🍉 Personal stuffs/Buy list.md",
+    "♾️ Infinity/JavaScript/Ternarios y operadores.md",
+    "🍉 Personal stuffs/Objectives/📅 Octubre.md",
+    "🍉 Personal stuffs/Objectives/💫 2022.md",
+    "🍉 Personal stuffs/Objectives/Notes for TODO/Nerdearla.md",
+    "Images/Pasted image 20220918131402.png"
+  ]
+}
