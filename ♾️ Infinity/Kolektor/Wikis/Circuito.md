@@ -9,6 +9,7 @@ _En FE la mayor parte de los pedidos vienen por parte de UX para el desarrollo o
 
  #### Componente ya existente
  - Se debe buscar el componente a modificar dentro de la librería.
+ - 
  
  #### Componente nuevo:
  -  Siempre debe evaluarse si realmente es candidato a estar en la librería. Lo ideal es que este vaya a ser usado en diferentes proyectos y lugares en la web.
