@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "202c30509cbd9e24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🍉 Personal stuffs/Persona 5/Top confidants.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍉 Personal stuffs/Deuda Octubre.md",
+                "file": "🍉 Personal stuffs/Persona 5/Top confidants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,10 +158,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "753ce3008cdd6227",
+  "active": "202c30509cbd9e24",
   "lastOpenFiles": [
-    "♾️ Infinity/Proyecto PC/Medidas.md",
     "🍉 Personal stuffs/Deuda Octubre.md",
+    "♾️ Infinity/Proyecto PC/Medidas.md",
     "♾️ Infinity/Proyecto PC/Desktop 3d.md",
     "♾️ Infinity/Proyecto PC/Cosas utiles PC.md",
     "♾️ Infinity/Kolektor/Untitled.md",
