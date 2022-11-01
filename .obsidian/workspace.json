@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍉 Personal stuffs/Persona 5/Top confidants.md",
+                "file": "🗓️ Calendar notes/⭕ Today.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,11 +154,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "202c30509cbd9e24",
+  "active": "82a0700c2f7cc126",
   "lastOpenFiles": [
+    "🍉 Personal stuffs/Persona 5/Top confidants.md",
+    "🗓️ Calendar notes/⭕ Today.md",
     "🍉 Personal stuffs/Deuda Octubre.md",
     "♾️ Infinity/Proyecto PC/Medidas.md",
     "♾️ Infinity/Proyecto PC/Desktop 3d.md",
@@ -167,8 +165,6 @@
     "♾️ Infinity/Kolektor/Untitled.md",
     "♾️ Infinity/Kolektor/Wikis/Crear stories y documentación.md",
     "♾️ Infinity/Kolektor/Wikis/Circuito.md",
-    "♾️ Infinity/Kolektor/Wikis/Publicación.md",
-    "🗓️ Calendar notes/⭕ Today.md",
-    "🍉 Personal stuffs/Cyberpunk Mods.md"
+    "♾️ Infinity/Kolektor/Wikis/Publicación.md"
   ]
 }

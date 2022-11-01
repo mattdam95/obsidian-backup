@@ -3,5 +3,12 @@ _Tareas del día_
 - [x] Hablar con pablo por turno para el banco
 - [x] Averiguar como hicieron los de Ayi el año pasado para la fiesta
 - [x] Ver como instalar corredera telescopica
+- [ ] Médico
+- [ ] Zapas?
+- [ ] Ver reserva de salon para el co-working
+- [ ] Ver reu con pablo, mati y maxi
+- [ ] Avisar por el proyecto de sellos y preparar el fork
+- [ ] Cortar pelo?
+- [ ] Ver el error del select-form
 - [ ] 
 - 
