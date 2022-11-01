@@ -152,19 +152,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "active": "82a0700c2f7cc126",
   "lastOpenFiles": [
-    "🍉 Personal stuffs/Persona 5/Top confidants.md",
+    "🗓️ Calendar notes/Deben.md",
     "🗓️ Calendar notes/⭕ Today.md",
+    "🗓️ Calendar notes/October.md",
+    "🍉 Personal stuffs/Persona 5/Top confidants.md",
     "🍉 Personal stuffs/Deuda Octubre.md",
     "♾️ Infinity/Proyecto PC/Medidas.md",
     "♾️ Infinity/Proyecto PC/Desktop 3d.md",
     "♾️ Infinity/Proyecto PC/Cosas utiles PC.md",
     "♾️ Infinity/Kolektor/Untitled.md",
-    "♾️ Infinity/Kolektor/Wikis/Crear stories y documentación.md",
-    "♾️ Infinity/Kolektor/Wikis/Circuito.md",
-    "♾️ Infinity/Kolektor/Wikis/Publicación.md"
+    "♾️ Infinity/Kolektor/Wikis/Crear stories y documentación.md"
   ]
 }

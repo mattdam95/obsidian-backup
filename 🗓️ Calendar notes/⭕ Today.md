@@ -7,8 +7,8 @@ _Tareas del día_
 - [ ] Zapas?
 - [ ] Ver reserva de salon para el co-working
 - [ ] Ver reu con pablo, mati y maxi
-- [ ] Avisar por el proyecto de sellos y preparar el fork
-- [ ] Cortar pelo?
+- [x] Avisar por el proyecto de sellos y preparar el fork
+- [x] Cortar pelo?
 - [ ] Ver el error del select-form
 - [ ] 
 - 
