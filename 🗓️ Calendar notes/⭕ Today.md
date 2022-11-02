@@ -5,7 +5,7 @@ _Tareas del día_
 - [x] Ver como instalar corredera telescopica
 - [ ] Médico
 - [x] Zapas?
-- [ ] Ver reserva de salon para el co-working
+- [x] Ver reserva de salon para el co-working
 - [x] Ver reu con pablo, mati y maxi
 - [x] Avisar por el proyecto de sellos y preparar el fork
 - [x] Cortar pelo?
