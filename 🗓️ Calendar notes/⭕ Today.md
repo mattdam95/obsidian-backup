@@ -4,11 +4,14 @@ _Tareas del día_
 - [x] Averiguar como hicieron los de Ayi el año pasado para la fiesta
 - [x] Ver como instalar corredera telescopica
 - [ ] Médico
-- [ ] Zapas?
+- [x] Zapas?
 - [ ] Ver reserva de salon para el co-working
-- [ ] Ver reu con pablo, mati y maxi
+- [x] Ver reu con pablo, mati y maxi
 - [x] Avisar por el proyecto de sellos y preparar el fork
 - [x] Cortar pelo?
 - [ ] Ver el error del select-form
+- [ ] Hacer documento para mom
+- [ ] Ver si el sticky del header se puede hacer desde el componente y avisar a Pau
+- [ ] Base-app 12 a 13
 - [ ] 
 - 
