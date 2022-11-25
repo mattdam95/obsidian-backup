@@ -10,8 +10,8 @@ _Tareas del día_
 - [x] Avisar por el proyecto de sellos y preparar el fork
 - [x] Cortar pelo?
 - [x] Ver el error del select-form
-- [ ] Hacer documento para mom
-- [ ] Ver si el sticky del header se puede hacer desde el componente y avisar a Pau
-- [ ] Base-app 12 a 13
+- [x] Hacer documento para mom
+- [x] Ver si el sticky del header se puede hacer desde el componente y avisar a Pau
+- [x] Base-app 12 a 13
 - [ ] 
 - 
