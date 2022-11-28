@@ -40,3 +40,6 @@ Patrón que ha revolucionado la arquitectura en el frontend. Fue creado por Face
 -   Aplicar un patrón al 100% es complicado.
 -   A veces no se sabe aplicar bien cada patrón.
 -   Evita adoptar uno de estos patrones sin antes entender bien qué es lo que te aporta
+
+
+### _Next -->_ [[Clean Architecture]]

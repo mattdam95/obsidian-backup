@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ab87c53c1eef5d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Clean Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb4658217abb9de4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Screaming Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e213e93a778b9efa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Tipos de Renderizado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -90,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Patrones de diseño.md",
+                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Tipos de Renderizado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,17 +180,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "ac51b083b822f036",
+  "active": "e213e93a778b9efa",
   "lastOpenFiles": [
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Definición.md",
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Screaming Architecture.md",
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Clean Architecture.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Patrones de diseño.md",
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Definición.md",
     "🍉 Personal stuffs/Objectives/📅 Octubre.md",
     "🍉 Personal stuffs/Objectives/💫 2022.md",
     "🗓️ Calendar notes/⭕ Today.md",
     "🗓️ Calendar notes/TODO - CBA.md",
     "🗓️ Calendar notes/Deben.md",
-    "🗓️ Calendar notes/October.md",
-    "🍉 Personal stuffs/Persona 5/Top confidants.md",
-    "🍉 Personal stuffs/Deuda Octubre.md"
+    "🗓️ Calendar notes/October.md"
   ]
 }
