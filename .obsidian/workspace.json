@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Tipos de Renderizado.md",
+                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Screaming Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Tipos de Renderizado.md",
+                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Screaming Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,6 +182,7 @@
   },
   "active": "e213e93a778b9efa",
   "lastOpenFiles": [
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Tipos de Renderizado.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Screaming Architecture.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Clean Architecture.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Patrones de diseño.md",
@@ -190,7 +191,6 @@
     "🍉 Personal stuffs/Objectives/💫 2022.md",
     "🗓️ Calendar notes/⭕ Today.md",
     "🗓️ Calendar notes/TODO - CBA.md",
-    "🗓️ Calendar notes/Deben.md",
-    "🗓️ Calendar notes/October.md"
+    "🗓️ Calendar notes/Deben.md"
   ]
 }
