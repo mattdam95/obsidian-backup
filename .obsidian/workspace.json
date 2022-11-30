@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "046b87b48d674fcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🍉 Personal stuffs/Learning/React/Introduccion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Screaming Architecture.md",
+                "file": "🍉 Personal stuffs/Learning/React/Introduccion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,10 +192,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "e213e93a778b9efa",
+  "active": "046b87b48d674fcc",
   "lastOpenFiles": [
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Tipos de Renderizado.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Screaming Architecture.md",
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Tipos de Renderizado.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Clean Architecture.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Patrones de diseño.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Definición.md",
