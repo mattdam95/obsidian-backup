@@ -42,4 +42,4 @@ Patrón que ha revolucionado la arquitectura en el frontend. Fue creado por Face
 -   Evita adoptar uno de estos patrones sin antes entender bien qué es lo que te aporta
 
 
-### _Next -->_ [[Clean Architecture]]
+### _Next -->_ [[Next.js, Nuxt.js, Astro, Remix...]]

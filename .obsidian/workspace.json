@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Monorepositorios vs Multirepositorios.md",
+                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Next.js, Nuxt.js, Astro, Remix....md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb4adcaa9e748854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Flujos de Trabajos en Git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Monorepositorios vs Multirepositorios.md",
+                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Flujos de Trabajos en Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,17 +192,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "684e0315e0f2ebcd",
+  "active": "cb4adcaa9e748854",
   "lastOpenFiles": [
     "🍉 Personal stuffs/Learning/Arquitectura FE/Next.js, Nuxt.js, Astro, Remix....md",
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Patrones de diseño.md",
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Screaming Architecture.md",
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Clean Architecture.md",
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Monorepositorios vs Multirepositorios.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Tipos de Renderizado.md",
     "🍉 Personal stuffs/Learning/React/02 - JSX.md",
     "🍉 Personal stuffs/Learning/React/Introduccion.md",
     "🍉 Personal stuffs/Learning/React/01 - Fundamentos.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Screaming Architecture.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Clean Architecture.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Patrones de diseño.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Definición.md",
-    "🍉 Personal stuffs/Objectives/📅 Octubre.md"
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Definición.md"
   ]
 }
