@@ -1,3 +1,6 @@
 ### Recursos principal:
-- #### _https://bluuweb.github.io/react-udemy/_
+- #### _https://bluuweb.dev/05-react/
 - #### _https://es.reactjs.org/_
+
+#### Indice:
+- Fundamentos

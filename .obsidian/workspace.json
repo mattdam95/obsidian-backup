@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e1ff196462725f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🍉 Personal stuffs/Learning/React/01 - Fundamentos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cbe8b875394b02d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🍉 Personal stuffs/Learning/React/Introduccion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -192,17 +216,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "046b87b48d674fcc",
+  "active": "5cbe8b875394b02d",
   "lastOpenFiles": [
+    "🍉 Personal stuffs/Learning/React/02 - JSX.md",
+    "🍉 Personal stuffs/Learning/React/01 - Fundamentos.md",
+    "🍉 Personal stuffs/Learning/React/Introduccion.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Screaming Architecture.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Tipos de Renderizado.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Clean Architecture.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Patrones de diseño.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Definición.md",
     "🍉 Personal stuffs/Objectives/📅 Octubre.md",
-    "🍉 Personal stuffs/Objectives/💫 2022.md",
-    "🗓️ Calendar notes/⭕ Today.md",
-    "🗓️ Calendar notes/TODO - CBA.md",
-    "🗓️ Calendar notes/Deben.md"
+    "🍉 Personal stuffs/Objectives/💫 2022.md"
   ]
 }
