@@ -1,154 +1,48 @@
-#  JSX
+## JSX: JavaScript + XML
 
-Se llama JSX, y es una extensión de la sintaxis de JavaScript. Recomendamos usarlo con React para describir cómo debería ser la interfaz de usuario. JSX puede recordarte a un lenguaje de plantillas, pero viene con todo el poder de JavaScript.
+-   Como ha visto, hemos estado usando lo que parece HTML en nuestro código React, pero no es HTML del todo. Esto es JSX , que significa JavaScript XML.
+-   El uso de JSX no es obligatorio para escribir React.
+-   Debajo del capó, se está ejecutando `createElement`, lo que toma la etiqueta, las propiedades y los elementos secundarios del componente y muestra la misma información.
+-   JSX está más cerca de JavaScript, no de HTML, por lo que hay algunas diferencias clave a tener en cuenta al escribirlo.
+    -   `className` se usa en lugar de `class` para agregar clases CSS, ya que `class` es una palabra clave reservada en JavaScript.
+    -   Las propiedades y métodos en JSX son camelCase.
+    -   Las etiquetas de cierre automático deben terminar en una barra inclinada,  
+        Ej. `<img />`
+    -   Su componente tampoco puede devolver varias etiquetas JSX. Tienes que envolverlos en un padre compartido, como un envoltorio `<div>...</div>` vacío o: `<>...</>`
 
-CURSO EN UDEMY OFERTA!
+Las expresiones de JavaScript también se pueden incrustar dentro de JSX usando llaves, incluidas variables, funciones y propiedades.
 
-Aprende desde cero a trabajar con **React.js y Firebase** aquí: [http://curso-react-js-udemy.bluuweb.cl/ (opens new window)](http://curso-react-js-udemy.bluuweb.cl/)**Nos vemos en clases!**
-
-```
-const element = <h1>Hello, world!</h1>;
-```
-
-Esta curiosa sintaxis de etiquetas no es ni un string ni HTML, Se llama JSX.
-
-Conoce más en la guía oficial [https://es.reactjs.org/docs/introducing-jsx.html(opens new window)](https://es.reactjs.org/docs/introducing-jsx.html)
-
-## [#](https://bluuweb.github.io/react-udemy/03-jsx/#insertando)Insertando
-
-Podemos insertar Javascript dentro de expresiones JSX como por ejemplo:
+jsx
 
 ```js
-import React from 'react';
-
-const JsxAccion = () => {
-
-    const saludo = 'Soy una constante!'
-
+const App = () => {
+    const title = "Mi primero proyecto con React.js";
     return (
-        <h1>Hola! {saludo}</h1>
+        <div className="container">
+            <h1 className="text-primary">{title}</h1>
+        </div>
     );
-}
- 
-export default JsxAccion;
+};
+
+export default App;
 ```
 
-Fíjate que utilizamos las `{}` para llamar a una constante, tu puedes utilizar dentro de estas llaves código JS!
+jsx
 
 ```js
-import React, {Fragment} from 'react';
-
-const JsxAccion = () => {
-
-    const temperatura = 21;
-
+const App = () => {
+    const title = "Mi primero proyecto con React.js";
+    const classColors = {
+        primary: "text-primary",
+        info: "text-info",
+    };
     return (
-        <Fragment>
-            <h2>Frío o Calor?</h2>
-            <p>
-                {
-                    temperatura > 20 ? 'Calor!' : 'Frio!'
-                }
-            </p>
-        </Fragment>
+        <div className="container">
+            <h1 className={classColors.primary}>{title}</h1>
+            <p className={classColors.info}>Lorem ipsum dolor sit.</p>
+        </div>
     );
-}
+};
 
-export default JsxAccion;
-```
-
-Ahora en este ejemplo estamos mezclando con un operador ternario (Atajo de condicional if)
-
-```
-const element = <img src={user.avatarUrl}></img>;
-```
-
-También lo puedes utilizar en atributos.
-
-WARNING
-
-No pongas comillas rodeando llaves cuando insertes una expresión JavaScript en un atributo. Debes utilizar comillas (para los valores de los strings) o llaves (para las expresiones), pero no ambas en el mismo atributo.
-
-## [#](https://bluuweb.github.io/react-udemy/03-jsx/#listas-y-keys)Listas y Keys
-
-[https://es.reactjs.org/docs/lists-and-keys.html (opens new window)](https://es.reactjs.org/docs/lists-and-keys.html)Se utiliza la función `map()` para pintar un Array.
-
-```js
-import React,{Fragment, useState} from 'react';
-
-const Listas = () => {
-
-    const [numeros, setNumero] = useState([1,2,3,4,5,6])
-
-    return (
-        <Fragment>
-            <ul>
-                {
-                    numeros.map((item, index) => 
-                        <li key={index}>
-                            {item} - {index}
-                        </li>
-                    )
-                }
-            </ul>
-        </Fragment>
-    );
-}
- 
-export default Listas;
-```
-
-Cuando ejecutes este código, serás advertido que una key debería ser proporcionada para ítems de lista. Una “key” es un atributo especial string que debes incluir al crear listas de elementos.
-
-## [#](https://bluuweb.github.io/react-udemy/03-jsx/#jugando)Jugando
-
-```js
-import React,{Fragment, useState} from 'react';
-
-const Listas = () => {
-
-    const [numeros, setNumero] = useState([1,2,3,4,5,6])
-
-    const [tiempo, setTiempo] = useState(1)
-
-    const aumentar = () => {
-        setTiempo(tiempo + 1)
-        setNumero([
-            ...numeros,
-            tiempo + 6
-        ])
-    }
-
-    return (
-        <Fragment>
-            <ul>
-                <button onClick={aumentar}>Aumentar</button>
-                <p>Tiempo: {tiempo}</p>
-                {
-                    numeros.map((item, index) => 
-                        <li key={index}>
-                            {item} - {index}
-                        </li>
-                    )
-                }
-            </ul>
-        </Fragment>
-    );
-}
- 
-export default Listas;
-```
-
-## [#](https://bluuweb.github.io/react-udemy/03-jsx/#operador-de-propagacion)Operador de propagacion
-
-[http://www.etnassoft.com/2014/06/03/el-operador-de-propagacion-en-javascript-ecmascript-6-y-polyfill/(opens new window)](http://www.etnassoft.com/2014/06/03/el-operador-de-propagacion-en-javascript-ecmascript-6-y-polyfill/)
-
-Concatenar Array
-
-```js
-const arrayUno = ['Chile', 'Argentina']
-const arrayDos = ['Perú', 'Mexico']
-
-const Unidos = [...arrayUno, ...arrayDos]
-console.log(Unidos)
+export default App;
 ```
