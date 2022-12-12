@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍉 Personal stuffs/Learning/React/03 - Componentes.md",
+                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Clean Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍉 Personal stuffs/Learning/React/03 - Componentes.md",
+                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Clean Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,6 +206,7 @@
   },
   "active": "f1411d5ac6816870",
   "lastOpenFiles": [
+    "🍉 Personal stuffs/Learning/React/03 - Componentes.md",
     "🍉 Personal stuffs/Learning/React/02 - JSX.md",
     "🍉 Personal stuffs/Learning/React/Introduccion.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Flujos de Trabajos en Git.md",
@@ -214,7 +215,6 @@
     "🍉 Personal stuffs/Learning/Arquitectura FE/Screaming Architecture.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Clean Architecture.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Monorepositorios vs Multirepositorios.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Tipos de Renderizado.md",
-    "🍉 Personal stuffs/Learning/React/01 - Fundamentos.md"
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Tipos de Renderizado.md"
   ]
 }
