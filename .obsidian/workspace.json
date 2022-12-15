@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "954283f6d53bdfff",
+            "id": "2f99f335b24e8935",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Definición.md",
+                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Backend for Frontend.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ac51b083b822f036",
+            "id": "a11c31d5323341a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,91 +32,19 @@
             }
           },
           {
-            "id": "5cbe8b875394b02d",
+            "id": "d6080cd60b5e1802",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Tipos de Renderizado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ff4056493192e3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Next.js, Nuxt.js, Astro, Remix....md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "684e0315e0f2ebcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Next.js, Nuxt.js, Astro, Remix....md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb4adcaa9e748854",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🍉 Personal stuffs/Learning/React/02 - JSX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1411d5ac6816870",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Flujos de Trabajos en Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd2cd38605600371",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Plataforma WEB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4eaf91ef4303aa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Monolitos y Mircoservicios.md",
+                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Monolitos y Mircoservicios.md",
+                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,17 +156,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "c4eaf91ef4303aa5",
+  "active": "d6080cd60b5e1802",
   "lastOpenFiles": [
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Plataforma WEB.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Flujos de Trabajos en Git.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Clean Architecture.md",
-    "🍉 Personal stuffs/Learning/React/03 - Componentes.md",
-    "🍉 Personal stuffs/Learning/React/02 - JSX.md",
-    "🍉 Personal stuffs/Learning/React/Introduccion.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Next.js, Nuxt.js, Astro, Remix....md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Patrones de diseño.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Screaming Architecture.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Monorepositorios vs Multirepositorios.md"
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Next.js, Nuxt.js, Astro, Remix....md",
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Monorepositorios vs Multirepositorios.md",
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Flujos de Trabajos en Git.md",
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Definición.md",
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Cómo elegir mi arquitectura de frontend y framework.md",
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Tipos de Renderizado.md",
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Clean Architecture.md",
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Monolitos y Mircoservicios.md",
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Backend for Frontend.md"
   ]
 }
