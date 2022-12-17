@@ -1,5 +1,8 @@
-# Que es?
+---
+date created: 2022-12-17 19:54
+---
 
+# Que es?
 
 **Arquitectura:** es la estructura fundamental de una aplicación, se define en base a un conjunto de decisiones que se toman al inicio y durante el desarrollo de un proyecto. Se conforma una serie de patrones, reglas y buenas prácticas que guían el desarrollo de la aplicación.
 
@@ -7,12 +10,12 @@ La implementación de una arquitectura de software no es inmutable, pero puede s
 
 **Objetivos:**
 
--   Pautas para desarrollar e iterar sobre la app, iniciando el desarrollo lo más pronto posible y de manera segura.
--   Mantenible en el tiempo, fácil de entender y extender.
--   Flexible y adaptable a los cambios.
--   Escalable
--   Fácil de testear, test automáticos
--   Fácil de desplegar
--   Fácil de aprender, que sea conocida por las comunidades.
+- Pautas para desarrollar e iterar sobre la app, iniciando el desarrollo lo más pronto posible y de manera segura.
+- Mantenible en el tiempo, fácil de entender y extender.
+- Flexible y adaptable a los cambios.
+- Escalable
+- Fácil de testear, test automáticos
+- Fácil de desplegar
+- Fácil de aprender, que sea conocida por las comunidades.
 
 ### _Next -->_ [[Patrones de diseño]]

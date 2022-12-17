@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e5168a6239b6889f",
+        "id": "67cf5b2ff7d8e90b",
         "type": "tabs",
         "children": [
           {
-            "id": "2f99f335b24e8935",
+            "id": "7d16479111368b99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Backend for Frontend.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a11c31d5323341a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Patrones de diseño.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6080cd60b5e1802",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Clean Architecture.md",
+                "file": "🗓️ Calendar notes/Rutina/01 - Lunes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 200
   },
   "right": {
     "id": "e4cd3249d6af1379",
@@ -102,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Clean Architecture.md",
+                "file": "🗓️ Calendar notes/Rutina/01 - Lunes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,26 +122,33 @@
               "type": "dictionary-view",
               "state": {}
             }
+          },
+          {
+            "id": "9a562ae1383b9219",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 357.5
   },
-  "active": "d6080cd60b5e1802",
+  "active": "7d16479111368b99",
   "lastOpenFiles": [
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Backend for Frontend.md",
+    "🗓️ Calendar notes/📓 Week.md",
+    "🗓️ Calendar notes/⭕ Today.md",
+    "Pasted image 20221021084909.png",
+    "Pasted image 20221215145816.png",
+    "Pasted image 20221215145810.png",
+    "Pasted image 20221025141956.png",
+    "🍉 Personal stuffs/Objectives/💫 2022.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Tipos de Renderizado.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Screaming Architecture.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Plataforma WEB.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Patrones de diseño.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Next.js, Nuxt.js, Astro, Remix....md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Monorepositorios vs Multirepositorios.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Monolitos y Mircoservicios.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Flujos de Trabajos en Git.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Untitled.md"
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Plataforma WEB.md"
   ]
 }

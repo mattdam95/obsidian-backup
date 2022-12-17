@@ -21,13 +21,11 @@
     },
     "YAML Title Alias": {
       "Inserts the title of the file into the YAML frontmatter's aliases section. Gets the title from the first H1 or filename.": false,
-      "YAML aliases section style": "Multi-line array",
       "Preserve existing aliases section style": true,
       "Keep alias that matches the filename": false
     },
     "Escape YAML Special Characters": {
       "Escapes colons with a space after them (: ), single quotes ('), and double quotes (\") in YAML.": false,
-      "Default Escape Character": "\"",
       "Try to Escape Single Line Arrays": false
     },
     "YAML Key Sort": {
@@ -131,19 +129,25 @@
     "Empty Line Around Code Fences": {
       "Ensures that there is an empty line around code fences unless they start or end a document.": false
     },
-    "Space between Chinese and English or numbers": {
-      "Ensures that Chinese and English or numbers are separated by a single space. Follow this [guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)": false
-    },
     "Remove Space around Fullwidth Characters": {
       "Ensures that fullwidth characters are not followed by whitespace (either single spaces or a tab)": false
     },
     "Remove link spacing": {
       "Removes spacing around link text.": false
-    }
+    },
+    "Space between Chinese Japanese or Korean and English or numbers": {}
   },
   "lintOnSave": false,
   "displayChanged": false,
   "foldersToIgnore": [],
   "linterLocale": "system-default",
-  "logLevel": 4
+  "logLevel": 4,
+  "lintCommands": [],
+  "customRegexes": [],
+  "commonStyles": {
+    "aliasArrayStyle": "single-line",
+    "tagArrayStyle": "single-line",
+    "minimumNumberOfDollarSignsToBeAMathBlock": 2,
+    "escapeCharacter": "\""
+  }
 }
