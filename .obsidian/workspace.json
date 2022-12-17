@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Untitled.md",
+                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Clean Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Untitled.md",
+                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Clean Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,15 +158,15 @@
   },
   "active": "d6080cd60b5e1802",
   "lastOpenFiles": [
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Backend for Frontend.md",
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Tipos de Renderizado.md",
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Screaming Architecture.md",
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Plataforma WEB.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Patrones de diseño.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Next.js, Nuxt.js, Astro, Remix....md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Monorepositorios vs Multirepositorios.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Flujos de Trabajos en Git.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Definición.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Cómo elegir mi arquitectura de frontend y framework.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Tipos de Renderizado.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Clean Architecture.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Monolitos y Mircoservicios.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Backend for Frontend.md"
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Flujos de Trabajos en Git.md",
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Untitled.md"
   ]
 }
