@@ -11,11 +11,9 @@
             "id": "7d16479111368b99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "🗓️ Calendar notes/Rutina/01 - Lunes.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20221021084909.png"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗓️ Calendar notes/Rutina/01 - Lunes.md",
+                "file": "Pasted image 20221021084909.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +139,7 @@
   "active": "7d16479111368b99",
   "lastOpenFiles": [
     "🗓️ Calendar notes/📓 Week.md",
+    "🗓️ Calendar notes/Rutina/01 - Lunes.md",
     "🗓️ Calendar notes/⭕ Today.md",
     "Pasted image 20221021084909.png",
     "Pasted image 20221215145816.png",
@@ -148,7 +147,6 @@
     "Pasted image 20221025141956.png",
     "🍉 Personal stuffs/Objectives/💫 2022.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Tipos de Renderizado.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Screaming Architecture.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Plataforma WEB.md"
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Screaming Architecture.md"
   ]
 }
