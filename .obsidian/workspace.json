@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "90dc6b45de5cb679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗓️ Calendar notes/⭕ Today.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,11 +175,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cf01877d97426ce2",
+  "active": "90dc6b45de5cb679",
   "lastOpenFiles": [
+    "🗓️ Calendar notes/⭕ Today.md",
     "🗓️ Calendar notes/Rutina/01 - Lunes.md",
     "🗓️ Calendar notes/📓 Week.md",
-    "🗓️ Calendar notes/⭕ Today.md",
     "Pasted image 20221021084909.png",
     "Pasted image 20221215145816.png",
     "Pasted image 20221215145810.png",
