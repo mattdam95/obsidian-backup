@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗓️ Calendar notes/Rutina/01 - Lunes.md",
+                "file": "🗓️ Calendar notes/📓 Week.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗓️ Calendar notes/Rutina/01 - Lunes.md",
+                "file": "🗓️ Calendar notes/📓 Week.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +140,7 @@
   },
   "active": "7d16479111368b99",
   "lastOpenFiles": [
+    "🗓️ Calendar notes/Rutina/01 - Lunes.md",
     "🗓️ Calendar notes/📓 Week.md",
     "🗓️ Calendar notes/⭕ Today.md",
     "Pasted image 20221021084909.png",
@@ -148,7 +149,6 @@
     "Pasted image 20221025141956.png",
     "🍉 Personal stuffs/Objectives/💫 2022.md",
     "🍉 Personal stuffs/Learning/Arquitectura FE/Tipos de Renderizado.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Screaming Architecture.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Plataforma WEB.md"
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Screaming Architecture.md"
   ]
 }
