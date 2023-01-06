@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "befb6563b1c939e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🍉 Personal stuffs/Learning/Docker/Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗓️ Calendar notes/October.md",
+                "file": "🍉 Personal stuffs/Learning/Docker/Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,17 +187,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3ff892864ecf1700",
+  "active": "befb6563b1c939e3",
   "lastOpenFiles": [
+    "🍉 Personal stuffs/Learning/Docker/Pasted image 20230106121331.png",
+    "🍉 Personal stuffs/Learning/Docker/Commands.md",
+    "Pasted image 20221215145810.png",
+    "Pasted image 20221025141956.png",
+    "Pasted image 20221021084909.png",
+    "🗓️ Calendar notes/October.md",
     "🗓️ Calendar notes/Deben.md",
     "conflict-files-obsidian-git.md",
     "🗓️ Calendar notes/⭕ Today.md",
-    "🗓️ Calendar notes/Rutina/01 - Lunes.md",
-    "🗓️ Calendar notes/📓 Week.md",
-    "Pasted image 20221021084909.png",
-    "Pasted image 20221215145816.png",
-    "Pasted image 20221215145810.png",
-    "Pasted image 20221025141956.png",
-    "🍉 Personal stuffs/Objectives/💫 2022.md"
+    "🗓️ Calendar notes/Rutina/01 - Lunes.md"
   ]
 }
