@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗓️ Calendar notes/📓 Week.md",
+                "file": "🍉 Personal stuffs/Objectives/💫 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f39522f770f288da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🍉 Personal stuffs/Learning/Bugs.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍉 Personal stuffs/Objectives/📅 Enereo.md",
+                "file": "🍉 Personal stuffs/Learning/Bugs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,9 +211,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e4a4747ef08ceaf6",
+  "active": "f39522f770f288da",
   "lastOpenFiles": [
     "🍉 Personal stuffs/Objectives/💫 2022.md",
+    "🗓️ Calendar notes/📓 Week.md",
     "🍉 Personal stuffs/Objectives/Notes for TODO/Nerdearla.md",
     "🍉 Personal stuffs/Learning/Docker/Pasos - Docker containers.md",
     "🍉 Personal stuffs/Learning/Docker/Pasted image 20230106121331.png",
@@ -209,7 +222,6 @@
     "Images/Pasted image 20221215145810.png",
     "Images/Pasted image 20221025141956.png",
     "Images/Pasted image 20221021084909.png",
-    "🗓️ Calendar notes/October.md",
-    "🗓️ Calendar notes/Deben.md"
+    "🗓️ Calendar notes/October.md"
   ]
 }
