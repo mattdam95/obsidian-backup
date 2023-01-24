@@ -25,3 +25,18 @@ routing
 			nabvar
 		Overlay
   	listStyles
+
+
+Components
+	Core
+		header
+		
+	sys
+	Overlay
+
+components
+	core: idlksafjlkdsaj;flkjajdsklfjlkajdslkfal;jdsl
+	sys: lkadsjfljasdlkfjalksdjfa
+	overlay: lkasdjaflkdajsflkjasldkj
+
+	
