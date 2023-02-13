@@ -1,6 +1,7 @@
-- Nutricionista
-- Madera escritorio
-- Pasaportes?
-- Concuvinacion?
-- DNI nuevo
-- 
+- Angular*
+- Typescript*
+- CSS*
+- RxJs
+- Test Unitarios
+- Git*
+- GitFlow

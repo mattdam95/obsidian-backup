@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0bfa7347d3e95529",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗓️ Calendar notes/Rutina/01 - Lunes.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +151,17 @@
     "direction": "horizontal",
     "width": 357.5
   },
-  "active": "7d16479111368b99",
+  "active": "0bfa7347d3e95529",
   "lastOpenFiles": [
+    "🗓️ Calendar notes/Rutina/01 - Lunes.md",
+    "conflict-files-obsidian-git.md",
     "🗓️ Calendar notes/📓 Week.md",
     "Pasted image 20221021084909.png",
-    "🗓️ Calendar notes/Rutina/01 - Lunes.md",
     "🗓️ Calendar notes/⭕ Today.md",
     "Pasted image 20221215145816.png",
     "Pasted image 20221215145810.png",
     "Pasted image 20221025141956.png",
     "🍉 Personal stuffs/Objectives/💫 2022.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Tipos de Renderizado.md",
-    "🍉 Personal stuffs/Learning/Arquitectura FE/Screaming Architecture.md"
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Tipos de Renderizado.md"
   ]
 }
