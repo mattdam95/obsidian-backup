@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f1c1e38afe73bdd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Preguntas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍉 Personal stuffs/Learning/React/01 - Fundamentos.md",
+                "file": "Preguntas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,10 +151,22 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "7d16479111368b99",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "f1c1e38afe73bdd4",
   "lastOpenFiles": [
-    "🍉 Personal stuffs/Learning/React/02 - JSX.md",
     "🍉 Personal stuffs/Learning/React/01 - Fundamentos.md",
+    "🍉 Personal stuffs/Learning/React/02 - JSX.md",
     "🍉 Personal stuffs/Learning/React/Introduccion.md",
     "🗓️ Calendar notes/Rutina/01 - Lunes.md",
     "conflict-files-obsidian-git.md",
