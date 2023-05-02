@@ -12,4 +12,8 @@ AMEXTOTALMAYO -
 
 
 10333,16 - MonitorLeo 2/6
+6009,42 - Nintendo
+5259,39 - Jetsmart
+1519,40
+
 5USD - StarDock
