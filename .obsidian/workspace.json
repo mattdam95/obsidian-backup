@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preguntas.md",
+                "file": "Debts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00331cc2b798247d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Debts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preguntas.md",
+                "file": "Debts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f1c1e38afe73bdd4",
+  "active": "00331cc2b798247d",
   "lastOpenFiles": [
     "🍉 Personal stuffs/Learning/React/01 - Fundamentos.md",
     "🍉 Personal stuffs/Learning/React/02 - JSX.md",
