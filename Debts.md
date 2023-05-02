@@ -1,19 +1,28 @@
-18278,66 - Dexter 3/3
-11966,00 - Dexter 2/3
-10333,16 - Monitor 2/6
+18278,66 - Dexter 3/3   - 12319.3N
+11966,00 - Dexter 2/3   -  2300N
+10333,16 - Monitor 2/6 - 5166.58N
 34986,55 - Parlantes 
    906,77 - Sellos
 
 
-NAII
-MATI
+NAII - 19785.88
+MATI - 76471.
 
-AMEXTOTALMAYO - 
+AMEXTOTALMAYO - 56685.26
 
 
 10333,16 - MonitorLeo 2/6
 6009,42 - Nintendo
 5259,39 - Jetsmart
-1519,40
+1519,40 - Woopy 6/6
+5036,15 - SAMSUNG
+1907.55 - SELLOS
 
 5USD - StarDock
+2,72USD - NITRO
+
+LEO - 10333.16
+NAI - 6555.55
+MATT - 22400 aprox
+
+
