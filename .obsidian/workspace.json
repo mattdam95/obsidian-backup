@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "02793611381d9a6b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,6 +78,14 @@
                 "extraContext": true,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "77342089aa5257e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -163,7 +181,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "00331cc2b798247d",
+  "active": "02793611381d9a6b",
   "lastOpenFiles": [
     "🍉 Personal stuffs/Learning/React/01 - Fundamentos.md",
     "🍉 Personal stuffs/Learning/React/02 - JSX.md",
