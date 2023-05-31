@@ -32,12 +32,14 @@
             }
           },
           {
-            "id": "02793611381d9a6b",
+            "id": "44d44308457882b4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "Pizzerias.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Debts.md",
+                "file": "Pizzerias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,8 +183,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "02793611381d9a6b",
+  "active": "44d44308457882b4",
   "lastOpenFiles": [
+    "Debts.md",
+    "Pizzerias.md",
     "🍉 Personal stuffs/Learning/React/01 - Fundamentos.md",
     "🍉 Personal stuffs/Learning/React/02 - JSX.md",
     "🍉 Personal stuffs/Learning/React/Introduccion.md",
