@@ -13,62 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍉 Personal stuffs/Learning/React/01 - Fundamentos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00331cc2b798247d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Debts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44d44308457882b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pizzerias.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7122b97f6050b02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Debts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac161a5ace5a5417",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Miercoles.md",
+                "file": "♾️ Infinity/Kolektor/Miercoles-Siluets/Miercoles.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miercoles.md",
+                "file": "♾️ Infinity/Kolektor/Miercoles-Siluets/Miercoles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,20 +158,36 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ac161a5ace5a5417",
+  "active": "7d16479111368b99",
   "lastOpenFiles": [
+    "♾️ Infinity/Kolektor/ToLearn.md",
+    "♾️ Infinity/JavaScript/Ternarios y operadores.md",
+    "♾️ Infinity/Kolektor/Wikis/Publicación.md",
+    "♾️ Infinity/Kolektor/Wikis/Crear stories y documentación.md",
+    "♾️ Infinity/Kolektor/Wikis/Circuito.md",
     "🍉 Personal stuffs/Learning/React/01 - Fundamentos.md",
+    "♾️ Infinity/Kolektor/Kepler/TODO.md",
+    "♾️ Infinity/Kolektor/Kepler/Tecnologias y librerias.md",
+    "♾️ Infinity/Kolektor/Kepler/Folder structure.md",
+    "♾️ Infinity/Kolektor/Kepler/Backend.md",
+    "♾️ Infinity/Kolektor/Untitled.md",
+    "♾️ Infinity/Kolektor/Helpful links.md",
+    "♾️ Infinity/Kolektor/App-agus.md",
+    "♾️ Infinity/Kolektor/Miercoles-Siluets/Miercoles.md",
+    "♾️ Infinity/Kolektor/Miercoles-Siluets",
     "Pizzerias.md",
     "Debts.md",
-    "Miercoles.md",
+    "🍉 Personal stuffs/Objectives/📅 Enereo.md",
+    "🍉 Personal stuffs/Objectives/💫 2022.md",
+    "🍉 Personal stuffs/Buy list.md",
+    "🍉 Personal stuffs/Persona 5/Top confidants.md",
+    "🍉 Personal stuffs/Learning/Bugs.md",
+    "🍉 Personal stuffs/Cyberpunk Mods.md",
     "🍉 Personal stuffs/Deuda Octubre.md",
     "🍉 Personal stuffs/Learning/React/02 - JSX.md",
     "🍉 Personal stuffs/Learning/React/Introduccion.md",
     "🗓️ Calendar notes/Rutina/01 - Lunes.md",
-    "conflict-files-obsidian-git.md",
-    "🗓️ Calendar notes/📓 Week.md",
     "Pasted image 20221021084909.png",
-    "🗓️ Calendar notes/⭕ Today.md",
     "Pasted image 20221215145816.png",
     "Pasted image 20221215145810.png"
   ]

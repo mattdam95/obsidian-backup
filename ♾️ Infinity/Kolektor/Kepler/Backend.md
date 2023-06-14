@@ -1,3 +1,0 @@
-[Swagger UI (rentascordoba.gob.ar)](https://appdesa.rentascordoba.gob.ar/WSRestEmision/swagger-ui/index.html#/)
-
-#kepler 
