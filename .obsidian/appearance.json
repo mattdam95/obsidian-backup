@@ -1,7 +1,7 @@
 {
-  "cssTheme": "Things",
+  "cssTheme": "Minimal",
   "theme": "obsidian",
   "baseFontSize": 15,
   "translucency": false,
-  "accentColor": ""
+  "accentColor": "#9939c6"
 }

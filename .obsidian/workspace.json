@@ -56,12 +56,14 @@
             }
           },
           {
-            "id": "5117569f43a02996",
+            "id": "ac161a5ace5a5417",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.4"
+                "file": "Miercoles.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Debts.md",
+                "file": "Miercoles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,12 +207,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5117569f43a02996",
+  "active": "ac161a5ace5a5417",
   "lastOpenFiles": [
-    "🍉 Personal stuffs/Deuda Octubre.md",
-    "Debts.md",
-    "Pizzerias.md",
     "🍉 Personal stuffs/Learning/React/01 - Fundamentos.md",
+    "Pizzerias.md",
+    "Debts.md",
+    "Miercoles.md",
+    "🍉 Personal stuffs/Deuda Octubre.md",
     "🍉 Personal stuffs/Learning/React/02 - JSX.md",
     "🍉 Personal stuffs/Learning/React/Introduccion.md",
     "🗓️ Calendar notes/Rutina/01 - Lunes.md",
