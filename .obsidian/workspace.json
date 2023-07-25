@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "♾️ Infinity/Kolektor/Miercoles-Siluets/Miercoles.md",
+                "file": "♾️ Infinity/Kolektor/ToLearn.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rubick.md",
+                "file": "♾️ Infinity/Kolektor/ToLearn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,12 +170,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d8ee8590f8cf9942",
+  "active": "7d16479111368b99",
   "lastOpenFiles": [
-    "Images/Pasted image 20230614162510.png",
     "Rubick.md",
-    "♾️ Infinity/Kolektor/Miercoles-Siluets/Miercoles.md",
+    "♾️ Infinity/Kolektor/Helpful links.md",
     "♾️ Infinity/Kolektor/ToLearn.md",
+    "♾️ Infinity/Kolektor/Miercoles-Siluets/Miercoles.md",
+    "Images/Pasted image 20230614162510.png",
     "♾️ Infinity/JavaScript/Ternarios y operadores.md",
     "♾️ Infinity/Kolektor/Wikis/Publicación.md",
     "♾️ Infinity/Kolektor/Wikis/Crear stories y documentación.md",
@@ -187,7 +187,6 @@
     "♾️ Infinity/Kolektor/Kepler/Folder structure.md",
     "♾️ Infinity/Kolektor/Kepler/Backend.md",
     "♾️ Infinity/Kolektor/Untitled.md",
-    "♾️ Infinity/Kolektor/Helpful links.md",
     "♾️ Infinity/Kolektor/App-agus.md",
     "♾️ Infinity/Kolektor/Miercoles-Siluets",
     "Pizzerias.md",
