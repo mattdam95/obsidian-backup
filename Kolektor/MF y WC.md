@@ -24,3 +24,7 @@ Pros:
 Con:
 - Sigue sin ser un proyecto, aplicaria solo para hacer componentes que no tenga una relacion taaan estrecha con angular.
 - No mas que eso
+
+
+Es posible hacerlo paulatinamente?
+Es posible un solo shell?
