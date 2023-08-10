@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e4cd3249d6af1379",
@@ -171,7 +172,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e743b3eae61c1a3e",
+  "active": "e4a4747ef08ceaf6",
   "lastOpenFiles": [
     "Kolektor/Microfrontens/MF y WC.md",
     "Kolektor/Microfrontens/Pasar app de angular para que sepa compatible con SPA.md",
