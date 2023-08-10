@@ -14,3 +14,8 @@ Seguir los pasos del schematics.
 - Instalar de vuelta todos los paquetes con `npm install`
 - Una vez hecho esto es necesario revisar algunos archivos que generó el schematics tales como: main.single-spa.ts ( Dentro del mismo hay que asegurarse que esté cargando el modulo principal de la aplicación correctamente) y tambien el tsconfig.app.json para verificar que esté incluido el archivo anterior en el mismo.
 
+Luego, si el proyecto tiene rutas hay que agregar la siguiente linea al app.routing.module.ts: ` providers: [
+
+        { provide: APP_BASE_HREF, useValue: '/' },
+
+      ],`
