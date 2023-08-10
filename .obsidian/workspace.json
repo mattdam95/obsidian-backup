@@ -13,31 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kolektor/MF y WC.md",
+                "file": "Kolektor/Microfrontens/MF y WC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8a5903a44e98a25b",
+            "id": "e743b3eae61c1a3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kolektor/MF y WC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8ee8590f8cf9942",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🍉 Personal stuffs/Rubick.md",
+                "file": "Kolektor/Microfrontens/Pasar app de angular para que sepa compatible con SPA.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#kui",
+                "query": "tag:#Micro",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kolektor/MF y WC.md",
+                "file": "Kolektor/Microfrontens/Pasar app de angular para que sepa compatible con SPA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,9 +171,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8a5903a44e98a25b",
+  "active": "e743b3eae61c1a3e",
   "lastOpenFiles": [
+    "Kolektor/Microfrontens/MF y WC.md",
+    "Kolektor/Microfrontens/Pasar app de angular para que sepa compatible con SPA.md",
     "🍉 Personal stuffs/Rubick.md",
+    "Kolektor/Microfrontens",
     "Kolektor/ToLearn.md",
     "Kolektor/Helpful links.md",
     "Kolektor/Miercoles-Siluets/Miercoles.md",
@@ -199,7 +190,6 @@
     "♾️ Infinity/Kolektor/Kepler/Tecnologias y librerias.md",
     "♾️ Infinity/Kolektor/Kepler/Folder structure.md",
     "♾️ Infinity/Kolektor/Kepler/Backend.md",
-    "Kolektor/MF y WC.md",
     "♾️ Infinity/Kolektor/App-agus.md",
     "Kolektor/Miercoles-Siluets",
     "Pizzerias.md",
