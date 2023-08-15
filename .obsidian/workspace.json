@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kolektor/Microfrontens/Pasar app de angular para que sepa compatible con SPA.md",
+                "file": "Kolektor/DC.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e4cd3249d6af1379",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kolektor/Microfrontens/Pasar app de angular para que sepa compatible con SPA.md",
+                "file": "Kolektor/DC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,8 +173,9 @@
   },
   "active": "e743b3eae61c1a3e",
   "lastOpenFiles": [
-    "Kolektor/Microfrontens/MF y WC.md",
     "Kolektor/Microfrontens/Pasar app de angular para que sepa compatible con SPA.md",
+    "Kolektor/DC.md",
+    "Kolektor/Microfrontens/MF y WC.md",
     "🍉 Personal stuffs/Rubick.md",
     "Kolektor/Microfrontens",
     "Kolektor/ToLearn.md",
@@ -202,7 +202,6 @@
     "🍉 Personal stuffs/Learning/Bugs.md",
     "🍉 Personal stuffs/Cyberpunk Mods.md",
     "🍉 Personal stuffs/Deuda Octubre.md",
-    "🍉 Personal stuffs/Learning/React/02 - JSX.md",
     "Pasted image 20221021084909.png",
     "Pasted image 20221215145816.png",
     "Pasted image 20221215145810.png"
