@@ -1,0 +1,11 @@
+Dependencias a actualizar despues de angualar:
+        "@storybook/addon-a11y": "5.1.7",
+        "@storybook/addon-actions": "5.1.7",
+        "@storybook/addon-backgrounds": "5.1.7",
+        "@storybook/addon-knobs": "5.1.7",
+        "@storybook/addon-links": "5.1.7",
+        "@storybook/addon-notes": "5.1.7",
+        "@storybook/addon-viewport": "5.1.7",
+        "@storybook/addons": "5.1.7",
+        "@storybook/angular": "5.1.7",
+        "@ng-bootstrap/ng-bootstrap": "^4.2.1",
