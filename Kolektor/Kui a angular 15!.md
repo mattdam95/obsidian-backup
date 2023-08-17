@@ -8,4 +8,14 @@ Dependencias a actualizar despues de angualar:
         "@storybook/addon-viewport": "5.1.7",
         "@storybook/addons": "5.1.7",
         "@storybook/angular": "5.1.7",
-        "@ng-bootstrap/ng-bootstrap": "^4.2.1",
+        
+          "ngx-owl-carousel-o": "^2.0.1",
+          
+   "@types/swiper": "^5.4.1",
+        "angular2-useful-swiper": "^8.0.1-beta.1",
+         "swiper": "^5.4.5",
+
+
+Ng 9
+        "@ng-bootstrap/ng-bootstrap": "^6.2.9",
+     
