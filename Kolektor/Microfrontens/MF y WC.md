@@ -11,7 +11,9 @@ Con:
 - Habría que crear un repo-shell para cada uno de los proyectos, esto incluye las respecta configuraciones que implica.
 - El proceso puede complejo y requiere capacitación a los desarrolladores.
 - Requiere todavía un poco mas de investigación.
-
+![[Pasted image 20230822105846.png]]
+Ventajas
+![[Pasted image 20230822105821.png]]
 ### Web components:
 
 Pros:
