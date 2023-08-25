@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e22df4b90075ace8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Kolektor/Microfrontens/Pasar app de angular para que sepa compatible con SPA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,11 +183,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e22df4b90075ace8",
+  "active": "7aac08c341804d14",
   "lastOpenFiles": [
+    "Kolektor/Microfrontens/MF y WC.md",
     "Kolektor/Microfrontens/Pasar app de angular para que sepa compatible con SPA.md",
     "conflict-files-obsidian-git.md",
-    "Kolektor/Microfrontens/MF y WC.md",
     "Pasted image 20230822105846.png",
     "Pasted image 20230822105821.png",
     "Kolektor/Kui a angular 15!.md",
