@@ -16,3 +16,17 @@ Seguir los pasos del schematics.
 Luego, si el proyecto tiene rutas hay que agregar la siguiente linea al app.routing.module.ts: ` providers: [{ provide: APP_BASE_HREF, useValue: '/' },]`. En el use value tiene que ir el path base del proyecto.
 
 
+## [1.187.0] - 2023-10-02
+
+### Added:
+
+-   new componente kui-add
+
+### Changed:
+
+-   now typeahead can be used as input-search.
+
+-   ajusted styles in kui-top-header
+
+-   now bottomsheet can hide the x button and use a function to close with other component.
+
