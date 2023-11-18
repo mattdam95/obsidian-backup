@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "feaa20425f68e925",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,7 +193,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7aac08c341804d14",
+  "active": "feaa20425f68e925",
   "lastOpenFiles": [
     "Kolektor/Microfrontens/MF y WC.md",
     "Kolektor/Microfrontens/Kolektor FE roadmap.md",
