@@ -1,0 +1,9 @@
+- Gen v
+- Loki
+- Wheel of time
+- Sucsession
+- Naruto
+- Invicible
+- The batman
+- John Wick
+- 
