@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kolektor/Microfrontens/Kolektor FE roadmap.md",
+                "file": "Series and Movies.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kolektor/Microfrontens/Kolektor FE roadmap.md",
+                "file": "Series and Movies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,12 +169,12 @@
   },
   "active": "f3c05ab94c743c97",
   "lastOpenFiles": [
+    "Kolektor/Microfrontens/Kolektor FE roadmap.md",
     "Kolektor/Helpful links.md",
     "Kolektor/Kui a angular 15!.md",
     "Kolektor/ToLearn.md",
     "Series and Movies.md",
     "Kolektor/Microfrontens/MF y WC.md",
-    "Kolektor/Microfrontens/Kolektor FE roadmap.md",
     "Kolektor/Microfrontens/Pasar app de angular para que sepa compatible con SPA.md",
     "conflict-files-obsidian-git.md",
     "Images/Pasted image 20230822105846.png",
