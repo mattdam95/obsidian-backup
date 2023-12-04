@@ -16,18 +16,6 @@
             }
           },
           {
-            "id": "f3c05ab94c743c97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Series and Movies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f897dcc8c761911c",
             "type": "leaf",
             "state": {
@@ -40,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,6 +169,7 @@
   },
   "active": "f897dcc8c761911c",
   "lastOpenFiles": [
+    "Pasted image 20231204145420.png",
     "Series and Movies.md",
     "Rubick.md",
     "Kolektor/Microfrontens/Kolektor FE roadmap.md",
@@ -211,7 +200,6 @@
     "Pizzerias.md",
     "Debts.md",
     "🍉 Personal stuffs/Objectives/📅 Enereo.md",
-    "🍉 Personal stuffs/Objectives/💫 2022.md",
     "Pasted image 20221021084909.png",
     "Pasted image 20221215145816.png",
     "Pasted image 20221215145810.png"

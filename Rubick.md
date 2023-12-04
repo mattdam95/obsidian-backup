@@ -7,4 +7,4 @@
 - Paso 4 (Cruz tercera capa): *Algoritmo: F R U R' U' F' (Repetir hasta conseguir cruz) 
 - Paso 5 (Casar cruz con centros): *Algoritmo: R' U' R U' R' 2U R U' 
 - Paso 6 (Colocar esquinas tercera capa):  *Algoritmo: U R U' L' U R' U' L 
-- Paso 7 (Orientar esquinas tercera capa): *Algoritmo: R' D' R D (Repetir hasta orientar bien la esquina)
+- Paso 7 (Orientar esquinas tercera capa): *Algoritmo: R' D' R D (Repetir hasta orientar bien la esquina)![[Pasted image 20231204145420.png]]
