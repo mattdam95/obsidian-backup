@@ -3,5 +3,6 @@
   "theme": "obsidian",
   "baseFontSize": 15,
   "translucency": false,
-  "accentColor": "#9939c6"
+  "accentColor": "#383838",
+  "monospaceFontFamily": "CaskaydiaCove NFM"
 }
