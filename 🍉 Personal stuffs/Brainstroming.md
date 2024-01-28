@@ -1,3 +1,4 @@
 - Generador de CV/Carta presentación?
 - Balanza/Calculador de alimentos para gatos.
+- App de lista de productos para celiacos
 - 
