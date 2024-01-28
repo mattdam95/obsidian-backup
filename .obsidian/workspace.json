@@ -11,8 +11,12 @@
             "id": "926e13f4a9b0bac7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "🍉 Personal stuffs/Brainstroming.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🍉 Personal stuffs/Brainstroming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,12 +131,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 206.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,8 +148,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9a562ae1383b9219",
+  "active": "926e13f4a9b0bac7",
   "lastOpenFiles": [
+    "🍉 Personal stuffs/Brainstroming.md",
     "Series and Movies.md",
     "🍉 Personal stuffs/Deuda Noviembre.md",
     "Images/Pasted image 20231204145420.png",
@@ -177,7 +182,6 @@
     "Kolektor/Miercoles-Siluets",
     "Pizzerias.md",
     "Debts.md",
-    "🍉 Personal stuffs/Objectives/📅 Enereo.md",
     "Pasted image 20221021084909.png",
     "Pasted image 20221215145816.png",
     "Pasted image 20221215145810.png"
