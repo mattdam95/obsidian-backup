@@ -1,0 +1,10 @@
+- Pelicula del dia
+- Información:
+	- Imagen
+	- Nombre
+	- Año de lanzamiento
+	- Nota
+	- Donde verla
+	- Duración
+	- Trailer
+- 
