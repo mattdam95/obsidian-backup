@@ -11,15 +11,26 @@
             "id": "926e13f4a9b0bac7",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240517115817.png"
+              }
+            }
+          },
+          {
+            "id": "1cbf13b65007be26",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "🍉 Personal stuffs/MovieOfTheDay/Ideas.md",
+                "file": "🍉 Personal stuffs/Learning/English/Present perfect simple and continuous.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 317.5
   },
   "right": {
     "id": "e4cd3249d6af1379",
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍉 Personal stuffs/MovieOfTheDay/Ideas.md",
+                "file": "🍉 Personal stuffs/Learning/English/Present perfect simple and continuous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,19 +150,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "926e13f4a9b0bac7",
+  "active": "1cbf13b65007be26",
   "lastOpenFiles": [
-    "🍉 Personal stuffs/Brainstroming.md",
+    "Pasted image 20240728192532.png",
+    "🍉 Personal stuffs/NVimMigration/Steps.md",
+    "🍉 Personal stuffs/Learning/English/Present perfect simple and continuous.md",
+    "🍉 Personal stuffs/NVimMigration",
+    "Images/Pasted image 20240723084312.png",
+    "Kolektor/Best practices/angular/angular.md.md",
+    "🍉 Personal stuffs/Learning/English",
+    "Pasted image 20240517115817.png",
+    "Pasted image 20240517115831.png",
+    "Kolektor/Best practices/General.md.md",
+    "Kolektor/Best practices/TODO.md",
+    "Kolektor/Best practices/css",
+    "Kolektor/Best practices/js-ts",
+    "Kolektor/Best practices/html",
+    "Kolektor/Best practices/angular",
     "🍉 Personal stuffs/MovieOfTheDay/Ideas.md",
+    "Kolektor/Best practices",
+    "🍉 Personal stuffs/Brainstroming.md",
     "🍉 Personal stuffs/MovieOfTheDay",
     "Series and Movies.md",
     "🍉 Personal stuffs/Deuda Noviembre.md",
@@ -176,13 +203,7 @@
     "Kolektor/Wikis/Crear stories y documentación.md",
     "Kolektor/Wikis/Circuito.md",
     "🍉 Personal stuffs/Learning/React/01 - Fundamentos.md",
-    "♾️ Infinity/Kolektor/Kepler/TODO.md",
-    "♾️ Infinity/Kolektor/Kepler/Tecnologias y librerias.md",
-    "♾️ Infinity/Kolektor/Kepler/Folder structure.md",
-    "♾️ Infinity/Kolektor/Kepler/Backend.md",
-    "♾️ Infinity/Kolektor/App-agus.md",
     "Kolektor/Miercoles-Siluets",
-    "Pizzerias.md",
     "Pasted image 20221021084909.png",
     "Pasted image 20221215145816.png",
     "Pasted image 20221215145810.png"
