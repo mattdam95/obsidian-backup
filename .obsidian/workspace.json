@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍉 Personal stuffs/Learning/English/Present perfect simple and continuous.md",
+                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Clean Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍉 Personal stuffs/Learning/English/Present perfect simple and continuous.md",
+                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Clean Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,11 +159,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "1cbf13b65007be26",
+  "active": "e4a4747ef08ceaf6",
   "lastOpenFiles": [
+    "🍉 Personal stuffs/Learning/English/Present perfect simple and continuous.md",
     "Pasted image 20240728192532.png",
     "🍉 Personal stuffs/NVimMigration/Steps.md",
-    "🍉 Personal stuffs/Learning/English/Present perfect simple and continuous.md",
     "🍉 Personal stuffs/NVimMigration",
     "Images/Pasted image 20240723084312.png",
     "Kolektor/Best practices/angular/angular.md.md",
@@ -205,7 +205,6 @@
     "🍉 Personal stuffs/Learning/React/01 - Fundamentos.md",
     "Kolektor/Miercoles-Siluets",
     "Pasted image 20221021084909.png",
-    "Pasted image 20221215145816.png",
-    "Pasted image 20221215145810.png"
+    "Pasted image 20221215145816.png"
   ]
 }
