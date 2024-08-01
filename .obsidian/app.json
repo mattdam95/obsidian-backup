@@ -3,5 +3,7 @@
   "livePreview": true,
   "promptDelete": false,
   "spellcheckLanguages": null,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "readableLineLength": false
 }

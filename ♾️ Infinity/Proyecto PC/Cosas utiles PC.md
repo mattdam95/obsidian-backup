@@ -1,4 +1,0 @@
-- Precintos
-- Velcro
-- Alcohol Isopropilico
-- Organizador de tornillos

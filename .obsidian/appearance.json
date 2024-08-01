@@ -1,8 +1,14 @@
 {
   "cssTheme": "Minimal",
   "theme": "obsidian",
-  "baseFontSize": 15,
+  "baseFontSize": 14,
   "translucency": false,
-  "accentColor": "#383838",
-  "monospaceFontFamily": "CaskaydiaCove NFM"
+  "accentColor": "#616161",
+  "monospaceFontFamily": "JetBrains Mono,CaskaydiaCove NFM",
+  "textFontFamily": "JetBrains Mono,CaskaydiaCove Nerd Font Mono",
+  "interfaceFontFamily": "CaskaydiaCove Nerd Font,JetBrains Mono",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "custom-styles"
+  ]
 }

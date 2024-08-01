@@ -2,5 +2,9 @@
   "primary-ceciliamay@@vault-title__titlebar": false,
   "primary-ceciliamay@@vault-title__file-explorer": false,
   "primary-ceciliamay@@scroll__scalable-fonts": false,
-  "primary-ceciliamay@@scrollbar-style": "scrollbar__mac"
+  "primary-ceciliamay@@scrollbar-style": "scrollbar__mac",
+  "minimal-style@@link-color@@dark": "#C2C2C2",
+  "minimal-advanced@@font-ui-smaller": 12,
+  "minimal-advanced@@cursor": "pointer",
+  "minimal-advanced@@styled-scrollbars": true
 }

@@ -1,7 +1,0 @@
-- Angular*
-- Typescript*
-- CSS*
-- RxJs
-- Test Unitarios
-- Git*
-- GitFlow

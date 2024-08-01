@@ -2,7 +2,6 @@
 ## Base
 ### HTML 
 - [Curso COMPLETO de HTML GRATIS desde cero: SEO, semántica y más - YouTube](https://www.youtube.com/watch?v=3nYLTiY5skU)
-
 ### CSS
 - [¡APRENDE CSS GRATIS! Curso de CSS desde cero para principiantes - YouTube](https://www.youtube.com/watch?v=hrxjBqZWsb0)
 ### JavaScript

@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "105cc6869329846a",
+        "id": "5051b5e7009b446b",
         "type": "tabs",
         "children": [
           {
-            "id": "926e13f4a9b0bac7",
+            "id": "d0848aa34a5f7aab",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240517115817.png"
-              }
-            }
-          },
-          {
-            "id": "1cbf13b65007be26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Clean Architecture.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Micro",
+                "query": "tag:#c4c4c4",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -80,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 430.5
   },
   "right": {
     "id": "e4cd3249d6af1379",
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🍉 Personal stuffs/Learning/Arquitectura FE/Clean Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +98,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -142,11 +126,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 367.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,54 +141,56 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e4a4747ef08ceaf6",
+  "active": "d0848aa34a5f7aab",
   "lastOpenFiles": [
-    "🍉 Personal stuffs/Learning/English/Present perfect simple and continuous.md",
-    "Pasted image 20240728192532.png",
-    "🍉 Personal stuffs/NVimMigration/Steps.md",
-    "🍉 Personal stuffs/NVimMigration",
-    "Images/Pasted image 20240723084312.png",
-    "Kolektor/Best practices/angular/angular.md.md",
-    "🍉 Personal stuffs/Learning/English",
-    "Pasted image 20240517115817.png",
-    "Pasted image 20240517115831.png",
+    "Random/Rubick 1.md",
+    "Kolektor/Microfrontens/Kolektor FE roadmap.md",
+    "♻️ Stuffs/MovieOfTheDay/Ideas.md",
+    "Kolektor/Wikis/Circuito.md",
+    "Kolektor/Wikis/Crear stories y documentación.md",
+    "Kolektor/Wikis/Publicación.md",
+    "Kolektor/ToLearn.md",
+    "Kolektor/Kui a angular 15!.md",
+    "Kolektor/Helpful links.md",
+    "Kolektor/DC.md",
+    "Random/Rubick.md",
+    "Random",
     "Kolektor/Best practices/General.md.md",
     "Kolektor/Best practices/TODO.md",
+    "Kolektor/Microfrontens/Pasar app de angular para que sepa compatible con SPA.md",
+    "Kolektor/Microfrontens/MF y WC.md",
+    "Kolektor/Best practices/angular/angular.md.md",
+    "♻️ Stuffs/Learning/Arquitectura FE/Backend for Frontend.md",
+    "🗓️ Calendar notes/TODO - CBA.md",
+    "🗓️ Calendar notes/October.md",
+    "🗓️ Calendar notes/Deben.md",
+    "🗓️ Calendar notes/⭕ Today.md",
+    "♻️ Stuffs/Learning/Arquitectura FE/Clean Architecture.md",
+    "♻️ Stuffs/Learning/Docker/Commands.md",
+    "♻️ Stuffs/Learning/Arquitectura FE/Flujos de Trabajos en Git.md",
+    "♻️ Stuffs/Learning/Arquitectura FE/Monolitos y Mircoservicios.md",
+    "🍉 Personal stuffs/Learning/Arquitectura FE/Drawing 2024-07-31 21.33.55.excalidraw.md",
+    "🖼️ Images/Pasted image 20240517115817.png",
+    "🖼️ Images/Pasted image 20240728192532.png",
+    "♻️ Stuffs/NVimMigration",
+    "🖼️ Images/Pasted image 20240723084312.png",
+    "♻️ Stuffs/Learning/English",
+    "🖼️ Images/Pasted image 20240517115831.png",
     "Kolektor/Best practices/css",
     "Kolektor/Best practices/js-ts",
     "Kolektor/Best practices/html",
     "Kolektor/Best practices/angular",
-    "🍉 Personal stuffs/MovieOfTheDay/Ideas.md",
     "Kolektor/Best practices",
-    "🍉 Personal stuffs/Brainstroming.md",
-    "🍉 Personal stuffs/MovieOfTheDay",
-    "Series and Movies.md",
-    "🍉 Personal stuffs/Deuda Noviembre.md",
-    "Images/Pasted image 20231204145420.png",
-    "Rubick.md",
-    "Kolektor/Microfrontens/Kolektor FE roadmap.md",
-    "Kolektor/Helpful links.md",
-    "Kolektor/Kui a angular 15!.md",
-    "Kolektor/ToLearn.md",
-    "Kolektor/Microfrontens/MF y WC.md",
-    "Kolektor/Microfrontens/Pasar app de angular para que sepa compatible con SPA.md",
-    "conflict-files-obsidian-git.md",
-    "Images/Pasted image 20230822105846.png",
-    "Images/Pasted image 20230822105821.png",
-    "Kolektor/DC.md",
-    "🍉 Personal stuffs/Rubick.md",
+    "♻️ Stuffs/MovieOfTheDay",
+    "🖼️ Images/Pasted image 20231204145420.png",
+    "🖼️ Images/Pasted image 20230822105846.png",
+    "🖼️ Images/Pasted image 20230822105821.png",
     "Kolektor/Microfrontens",
-    "Kolektor/Miercoles-Siluets/Miercoles.md",
-    "Images/Pasted image 20230614162510.png",
-    "♾️ Infinity/JavaScript/Ternarios y operadores.md",
-    "Kolektor/Wikis/Publicación.md",
-    "Kolektor/Wikis/Crear stories y documentación.md",
-    "Kolektor/Wikis/Circuito.md",
-    "🍉 Personal stuffs/Learning/React/01 - Fundamentos.md",
-    "Kolektor/Miercoles-Siluets",
+    "🖼️ Images/Pasted image 20230614162510.png",
     "Pasted image 20221021084909.png",
     "Pasted image 20221215145816.png"
   ]

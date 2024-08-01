@@ -7,5 +7,7 @@
   "obsidian-style-settings",
   "obsidian-plugin-prettier",
   "obsidian-markdown-formatting-assistant-plugin",
-  "markdown-prettifier"
+  "markdown-prettifier",
+  "obsidian-excalidraw-plugin",
+  "cm-editor-syntax-highlight-obsidian"
 ]

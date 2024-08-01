@@ -1,7 +1,0 @@
-- [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107)
-- [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511)
-- [Better Vehicle Handling](https://www.nexusmods.com/cyberpunk2077/mods/210)
-- [Better Minimap](https://www.nexusmods.com/cyberpunk2077/mods/634)
-- [Better Loot Markers](https://www.nexusmods.com/cyberpunk2077/mods/3486)
-- [FidelityFx Super Resolution 2.1 - FPS boost mod](https://www.nexusmods.com/cyberpunk2077/mods/3001)
-- 
